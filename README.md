@@ -18,7 +18,7 @@ This repository contains all the coding work completed up to the midterm (week2)
 
 ## Week 0: Mini Image Editor
 A Python script that performs basic image manipulation operations. The image is loaded using Pillow, converted to an OpenCV-compatible format,and processed based on user choice.
-File: `w0.py`
+File: `week0.py`
 - Load image using Pillow
 - Convert image from RGB to BGR
 - Resize image
