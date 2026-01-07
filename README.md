@@ -1,5 +1,5 @@
 # Augmented Reality Face Tracking & Overlay System  
-**WiDS Mid-Term Project**
+**WiDS Mid-Term Report**
 
 ## Student Details
 - **Name:** Prachi Arya  
