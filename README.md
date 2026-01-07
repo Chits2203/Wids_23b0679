@@ -112,8 +112,3 @@ Each week contains:
 - Corresponding output files for demonstration
 
 ---
-
-## Notes
-This repository includes **only the work completed up to the midterm evaluation**, as required.
-The implementations demonstrate a progressive understanding of computer vision concepts
-leading to a functional augmented reality face tracking and overlay system.
